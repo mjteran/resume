@@ -6,5 +6,5 @@ show_downloads: true # or false to indicate whether to provide a download URL
 theme: jekyll-theme-chirpy
 
 # Add image
-logo: /assets/img/profile.jpg
+avatar: /assets/img/profile.jpg
 favicon: /assets/img/favicon.ico
