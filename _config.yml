@@ -1,13 +1,30 @@
-##theme: jekyll-theme-chirpy
-remote_theme: jekyll-theme-Slate
+# Theme
+#theme: jekyll-theme-Slate
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 title: "Maria Jose Teran"
 description: >-
   Data Science Portfolio – Projects, Resume, and Skills.
 show_downloads: true # or false to indicate whether to provide a download URL
-# Theme
 
-
-# Add image
-avatar: /assets/img/profile.jpg
 favicon: /assets/img/favicons/favicon.ico
+avatar: /assets/img/avatar.png
+
+seo:
+  type: Website
+  image: /assets/img/social-preview.png
+  twitter:
+    username: mjose_data
+
+social:
+  name: Maria Jose
+  email: maria@example.com
+  links:
+    - https://github.com/mjteran
+    - https://linkedin.com/in/mariajose
+
+lang: en
+timezone: America/Vancouver
+
+plugins:
+  - jekyll-remote-theme
