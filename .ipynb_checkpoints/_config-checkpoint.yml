@@ -3,8 +3,8 @@ description: >-
   Data Science Portfolio – Projects, Resume, and Skills.
 show_downloads: true # or false to indicate whether to provide a download URL
 # Theme
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-Minimal
 
 # Add image
-avatar: /assets/img/profile.jpg
+logo: /assets/img/profile.jpg
 favicon: /assets/img/favicon.ico
