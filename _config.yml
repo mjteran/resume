@@ -1,6 +1,6 @@
 # Theme
-#theme: jekyll-theme-Slate
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-Slate
+#remote_theme: cotes2020/jekyll-theme-chirpy
 
 title: "Maria Jose Teran"
 description: >-
