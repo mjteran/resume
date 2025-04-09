@@ -32,7 +32,18 @@ Interactive dashboard showing churn drivers and KPIs for a fictional telecom com
 - **Languages & Tools**: Python, SQL, R, Excel, Git, Tableau  
 - **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels  
 - **Techniques**: EDA, Hypothesis Testing, Regression, Classification, Data Visualization  
-
+- **Languages & Tools**: Python, SQL, R, Excel, Git, Tableau  
+- **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels  
+- **Techniques**: EDA, Hypothesis Testing, Regression, Classification, Data Visualization
+- - **Languages & Tools**: Python, SQL, R, Excel, Git, Tableau  
+- **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels  
+- **Techniques**: EDA, Hypothesis Testing, Regression, Classification, Data Visualization
+- - **Languages & Tools**: Python, SQL, R, Excel, Git, Tableau  
+- **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels  
+- **Techniques**: EDA, Hypothesis Testing, Regression, Classification, Data Visualization
+- - **Languages & Tools**: Python, SQL, R, Excel, Git, Tableau  
+- **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn, statsmodels  
+- **Techniques**: EDA, Hypothesis Testing, Regression, Classification, Data Visualization  
 ---
 
 ## 🎓 Education
