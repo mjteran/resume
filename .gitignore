@@ -1,0 +1,10 @@
+# Ignore Jupyter notebook checkpoint files
+.ipynb_checkpoints/
+# Ignore data files and large outputs
+data/
+*.csv
+*.xlsx
+# Ignore Python cache or environment files
+__pycache__/
+*.py[cod]
+.env
